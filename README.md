@@ -14,9 +14,7 @@ The dataset used in this project is the MAGE dataset.
 
 ## Project Structure
 
-## Project Structure
-
-\\\
+```
 textual-deepfake-detection
 │
 ├── notebooks
@@ -25,4 +23,4 @@ textual-deepfake-detection
 ├── README.md
 ├── LICENSE
 └── .gitignore
-\\\
+```
