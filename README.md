@@ -12,7 +12,7 @@ The project explores different approaches for identifying AI-generated content, 
 
 The dataset used in this project is the MAGE dataset.
 
-## Project Structure
+## Project Structure 
 
 ```
 textual-deepfake-detection
