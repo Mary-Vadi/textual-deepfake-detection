@@ -4,7 +4,7 @@ This project focuses on detecting AI-generated text using Natural Language Proce
  
 The project explores different approaches for identifying AI-generated content, including:
  
-- Text preprocessing using NLP techniques
+- Text preprocessing using NLP techniques 
 - Feature extraction and vectorization
 - Traditional machine learning models such as SVM and Naive Bayes
 - Transformer-based models such as RoBERTa
