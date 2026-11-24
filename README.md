@@ -6,7 +6,7 @@ The project explores different approaches for identifying AI-generated content, 
  
 - Text preprocessing using NLP techniques 
 - Feature extraction and vectorization
-- Traditional machine learning models such as SVM and Naive Bayes
+- Traditional machine learning models such as SVM and Naive Bayes 
 - Transformer-based models such as RoBERTa
 - Retrieval-Augmented Generation (RAG) techniques
  
