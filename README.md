@@ -8,7 +8,7 @@ The project explores different approaches for identifying AI-generated content, 
 - Feature extraction and vectorization
 - Traditional machine learning models such as SVM and Naive Bayes 
 - Transformer-based models such as RoBERTa
-- Retrieval-Augmented Generation (RAG) techniques
+- Retrieval-Augmented Generation (RAG) techniques 
  
 The dataset used in this project is the MAGE dataset.
 
